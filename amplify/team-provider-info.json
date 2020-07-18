@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-vyoutubefront-dev-130339-authRole",
+            "UnauthRoleArn": "arn:aws:iam::034228666730:role/amplify-vyoutubefront-dev-130339-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::034228666730:role/amplify-vyoutubefront-dev-130339-authRole",
+            "Region": "ap-northeast-1",
+            "DeploymentBucketName": "amplify-vyoutubefront-dev-130339-deployment",
+            "UnauthRoleName": "amplify-vyoutubefront-dev-130339-unauthRole",
+            "StackName": "amplify-vyoutubefront-dev-130339",
+            "StackId": "arn:aws:cloudformation:ap-northeast-1:034228666730:stack/amplify-vyoutubefront-dev-130339/ab0cb140-c8ab-11ea-b276-0e0119a58df2",
+            "AmplifyAppId": "d3k5fk0xupu5y4"
+        }
+    }
+}

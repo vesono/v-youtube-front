@@ -7,6 +7,12 @@ amplify/backend/awscloudformation
 build/
 dist/
 node_modules/
+.next/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.env.build
 aws-exports.js
 awsconfiguration.json
 amplifyconfiguration.json
